@@ -1,0 +1,10 @@
+.DS_Store
+.vscode/
+
+logs/
+*.log
+debug/
+
+__pycache__/
+*.py[cod]
+*$py.class
